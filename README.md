@@ -48,7 +48,8 @@ Different validators may use different approaches (AI models or APIs), but they 
 
 ## 🧑‍💻 Step 1: Create a Contract in GenLayer Studio
 
-Open GenLayer Studio - https://studio.genlayer.com and create a new contract file.
+Open GenLayer Studio: [https://studio.genlayer.com](https://studio.genlayer.com) 
+create a new contract file.
 
 Paste the following code:
 
